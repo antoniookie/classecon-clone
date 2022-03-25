@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="103.5" height="118.5" viewBox="0 0 103.5 118.5">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#009c6d"/>
+      <stop offset="1" stop-color="#3e2f84"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_47" data-name="Grupo 47" transform="translate(-16.6 -3)">
+    <path id="Caminho_69" data-name="Caminho 69" d="M95.6,48.1V78.2L68,93l-.3.2-.3.1v-32Z" fill="#c1c1c1"/>
+    <path id="Caminho_70" data-name="Caminho 70" d="M95.6,54.7V48.1l-28.2-15-26.3,15V78.2L67.4,93.3l.3-.1L68,93,95.6,78.2V71l24.5,12.9v7.5L67.4,121.5,16.6,91.4V33.1L67.4,3l52.7,30.1v7.5Z" fill="url(#linear-gradient)"/>
+    <path id="Caminho_71" data-name="Caminho 71" d="M95.6,48.1,67.4,61.3h0L41.1,48.2v-.1l26.3-15Z" fill="#fff"/>
+    <path id="Caminho_72" data-name="Caminho 72" d="M68,61.6V93.3l-.3-.1-.3-.2L41.1,77.7l-.3-.2V48Z" fill="#e5e5e5"/>
+  </g>
+</svg>

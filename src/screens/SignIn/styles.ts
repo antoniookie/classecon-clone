@@ -4,6 +4,7 @@ import THEME from "../../global/theme";
 export const Container = styled.View`
   flex: 1;
   align-items: center;
+  margin-top: 30px;
 `;
 
 export const Header = styled.Image`

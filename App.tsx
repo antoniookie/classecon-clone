@@ -1,6 +1,6 @@
 import { StatusBar } from "expo-status-bar";
 import AppLoading from "expo-app-loading";
-import { SignIn } from "../classecon-clone/src/screens/SignIn";
+import {SignIn} from "../classeclone/src/screens/SignIn";
 import {
   useFonts,
   Roboto_400Regular,
@@ -26,7 +26,10 @@ export default function App() {
   return (
     <ThemeProvider theme={theme}>
       <Background>
-        <StatusBar />
+        <StatusBar 
+                  backgroundColor="transparent"
+                  translucent={true}
+        />
         <SignIn />
       </Background>
     </ThemeProvider>
